@@ -1,23 +1,23 @@
-Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,latam,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese,spanish
-CTVI_resourceRawPlatinum,items,Item,,,Raw Platinum,,,,,,,,,,,Платиновая руда,,白金矿,白金礦,
-CTVI_resourceRawEmerald,items,Item,,,Raw Emerald,,,,,,,,,,,Неограненный изумруд,,祖母绿矿,祖母綠礦,
-CTVI_resourceRawRuby,items,Item,,,Raw Ruby,,,,,,,,,,,Неограненный рубин,,红宝石矿,紅寶石礦,
-CTVI_ForgedLead,items,Item,,,Forged Lead,,,,,,,,,,,Свинцовый слиток,,铅锭,鉛錠,
-CTVI_ForgedLeadDesc,items,Item,,,Can be crafted at the workbench.,,,,,,,,,,,Может быть создано на верстаке,,可以在工作台制作。,可以在工作台製作。,
-CTVI_ForgedBrass,items,Item,,,Forged Brass,,,,,,,,,,,Латунный слиток,,黄铜锭,黃銅錠,
-CTVI_ForgedBrassDesc,items,Item,,,Can be crafted at the workbench.,,,,,,,,,,,Может быть создано на верстаке,,可以在工作台制作,可以在工作台製作。,
-CTVI_ForgedSilver,items,Item,,,Forged Silver,,,,,,,,,,,Серебряный слиток,,银锭,銀錠,
-CTVI_ForgedSilverDesc,items,Item,,,Can be crafted at the workbench.,,,,,,,,,,,Может быть создано на верстаке.,,可以在工作台制作。,可以在工作台製作。,
-CTVI_ForgedGold,items,Item,,,Forged Gold,,,,,,,,,,,Золотой слиток,,金锭,金錠,
-CTVI_ForgedGoldDesc,items,Item,,,Can be crafted at the workbench.,,,,,,,,,,,Может быть создано на верстаке.,,可以在工作台制作。,可以在工作台製作。,
-CTVI_ForgedPlatinum,items,Item,,,Forged Platinum,,,,,,,,,,,Платиновый слиток,,白金锭,白金錠,
-CTVI_ForgedPlatinumDesc,items,Item,,,Can be crafted at the workbench.,,,,,,,,,,,Может быть создано на верстаке.,,可以在工作台制作。,可以在工作台製作。,
-CTVI_ForgedEmerald,items,Item,,,Forged Emerald,,,,,,,,,,,Изумрудный слиток,,加工的翡翠,加工的翡翠,
-CTVI_ForgedEmeraldDesc,items,Item,,,Can be crafted at the workbench.,,,,,,,,,,,Может быть создано на верстаке.,,可以在工作台制作。,可以在工作台製作。,
-CTVI_ForgedRuby,items,Item,,,Forged Ruby,,,,,,,,,,,Рубиновый слиток,,加工的红宝石,加工的紅寶石,
-CTVI_ForgedRubyDesc,items,Item,,,Can be crafted at the workbench.,,,,,,,,,,,Может быть создано на верстаке.,,可以在工作台制作。,可以在工作台製作。,
-CTVI_ForgedDiamond,items,Item,,,Forged Diamond,,,,,,,,,,,Алмазный слиток,,加工的钻石,加工的鑽石,
-CTVI_ForgedDiamondDesc,items,Item,,,Can be crafted at the workbench.,,,,,,,,,,,Может быть создано на верстаке.,,可以在工作台制作。,可以在工作台製作。,
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,russian,schinese,tchinese
+CTVI_resourceRawPlatinum,items,Item,,,Raw Platinum,,Платиновая руда,白金原石,白金原石
+CTVI_resourceRawEmerald,items,Item,,,Raw Emerald,,Неограненный изумруд,祖母绿原石,祖母綠原石
+CTVI_resourceRawRuby,items,Item,,,Raw Ruby,,Неограненный рубин,红宝石原石,紅寶石原石
+CTVI_ForgedLead,items,Item,,,Forged Lead,,Свинцовый слиток,锻铅,鍛鉛
+CTVI_ForgedLeadDesc,items,Item,,,Can be crafted at the workbench.,,Может быть создано на верстаке,可以在工作台制作。,可以在工作台製作。
+CTVI_ForgedBrass,items,Item,,,Forged Brass,,Латунный слиток,锻黄铜,鍛黃銅
+CTVI_ForgedBrassDesc,items,Item,,,Can be crafted at the workbench.,,Может быть создано на верстаке,可以在工作台制作,可以在工作台製作。
+CTVI_ForgedSilver,items,Item,,,Forged Silver,,Серебряный слиток,锻银,鍛銀
+CTVI_ForgedSilverDesc,items,Item,,,Can be crafted at the workbench.,,Может быть создано на верстаке.,可以在工作台制作。,可以在工作台製作。
+CTVI_ForgedGold,items,Item,,,Forged Gold,,Золотой слиток,锻金,鍛金
+CTVI_ForgedGoldDesc,items,Item,,,Can be crafted at the workbench.,,Может быть создано на верстаке.,可以在工作台制作。,可以在工作台製作。
+CTVI_ForgedPlatinum,items,Item,,,Forged Platinum,,Платиновый слиток,锻白金,鍛白金
+CTVI_ForgedPlatinumDesc,items,Item,,,Can be crafted at the workbench.,,Может быть создано на верстаке.,可以在工作台制作。,可以在工作台製作。
+CTVI_ForgedEmerald,items,Item,,,Forged Emerald,,Изумрудный слиток,翡翠,翡翠
+CTVI_ForgedEmeraldDesc,items,Item,,,Can be crafted at the workbench.,,Может быть создано на верстаке.,可以在工作台制作。,可以在工作台製作。
+CTVI_ForgedRuby,items,Item,,,Forged Ruby,,Рубиновый слиток,红宝石,紅寶石
+CTVI_ForgedRubyDesc,items,Item,,,Can be crafted at the workbench.,,Может быть создано на верстаке.,可以在工作台制作。,可以在工作台製作。
+CTVI_ForgedDiamond,items,Item,,,Forged Diamond,,Алмазный слиток,钻石,鑽石
+CTVI_ForgedDiamondDesc,items,Item,,,Can be crafted at the workbench.,,Может быть создано на верстаке.,可以在工作台制作。,可以在工作台製作。
 
 
 
