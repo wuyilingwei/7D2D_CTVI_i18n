@@ -1,0 +1,38 @@
+<configs>
+	<append xpath="/recipes">
+	
+		<recipe name="CTVI_ForgedLead" count="1" craft_area="workbench" craft_time="60" tags="workbenchCrafting">
+			<ingredient name="resourceScrapLead" count="100"/>
+		</recipe>
+	
+		<recipe name="CTVI_ForgedBrass" count="1" craft_area="workbench" craft_time="70" tags="workbenchCrafting">
+			<ingredient name="resourceScrapBrass" count="100"/>
+		</recipe>
+		
+		<recipe name="CTVI_ForgedSilver" count="1" craft_area="workbench" craft_time="120" tags="workbenchCrafting">
+			<ingredient name="resourceSilverNugget" count="50"/>
+		</recipe>
+	
+		<recipe name="CTVI_ForgedGold" count="1" craft_area="workbench" craft_time="180" tags="workbenchCrafting">
+			<ingredient name="resourceGoldNugget" count="50"/>
+		</recipe>
+	
+		<recipe name="CTVI_ForgedPlatinum" count="1" craft_area="workbench" craft_time="200" tags="workbenchCrafting">
+			<ingredient name="CTVI_resourceRawPlatinum" count="5"/>
+		</recipe>
+		
+		<recipe name="CTVI_ForgedEmerald" count="1" craft_area="workbench" craft_time="220" tags="workbenchCrafting">
+			<ingredient name="CTVI_resourceRawEmerald" count="5"/>
+		</recipe>
+		
+		<recipe name="CTVI_ForgedRuby" count="1" craft_area="workbench" craft_time="250" tags="workbenchCrafting">
+			<ingredient name="CTVI_resourceRawRuby" count="5"/>
+		</recipe>
+		
+		<recipe name="CTVI_ForgedDiamond" count="1" craft_area="workbench" craft_time="300" tags="workbenchCrafting">
+			<ingredient name="resourceRawDiamond" count="5"/>
+		</recipe>
+
+		
+	</append>
+ </configs>

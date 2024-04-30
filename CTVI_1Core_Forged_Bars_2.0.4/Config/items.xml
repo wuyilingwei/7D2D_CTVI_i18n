@@ -1,0 +1,130 @@
+<configs>
+	<append xpath="/items">
+		
+		<!-- Ore Items -->
+	
+		<item name="CTVI_resourceRawPlatinum">
+			<property name="Extends" value="resourceSilverNugget"/>
+			<property name="CustomIcon" value="resourceSilverNugget"/>
+			<property name="CustomIconTint" value="E5E4E2"/> 
+			<property name="TintColor" value="E5E4E2"/>
+			<property name="Tags" value="gems"/>
+			<property name="EconomicValue" value="9500"/>
+			<property name="CraftingIngredientTime" value="60"/>
+			<property name="DescriptionKey" value="rareOresGroupDesc"/>
+		</item>
+	
+		<item name="CTVI_resourceRawEmerald">
+			<property name="Extends" value="resourceSilverNugget"/>
+			<property name="CustomIcon" value="resourceRawDiamond"/>
+			<property name="CustomIconTint" value="50C878"/> 
+			<property name="TintColor" value="50C878"/>
+			<property name="Tags" value="gems"/>
+			<property name="EconomicValue" value="1250"/>
+			<property name="CraftingIngredientTime" value="60"/>
+			<property name="DescriptionKey" value="rareOresGroupDesc"/>
+		</item>
+		
+		<item name="CTVI_resourceRawRuby">
+			<property name="Extends" value="resourceSilverNugget"/>
+			<property name="CustomIcon" value="resourceRawDiamond"/>
+			<property name="CustomIconTint" value="E0115F"/> 
+			<property name="TintColor" value="E0115F"/>
+			<property name="Tags" value="gems"/>
+			<property name="EconomicValue" value="1350"/>
+			<property name="CraftingIngredientTime" value="60"/>
+			<property name="DescriptionKey" value="rareOresGroupDesc"/>
+		</item>
+		
+		<!-- Forged Bars -->
+		
+		<item name="CTVI_ForgedLead">
+			<property name="Extends" value="resourceForgedIron"/>
+			<property name="CustomIcon" value="resourceForgedIron"/>
+			<property name="CustomIconTint" value="6C6C6A"/> 
+			<property name="TintColor" value="6C6C6A"/>
+			<property name="Tags" value="gems"/>
+			<property name="EconomicValue" value="1250"/>
+			<property name="CraftingIngredientTime" value="15"/>
+			<property name="DescriptionKey" value="CTVI_ForgedLeadDesc"/>
+		</item>
+		
+		<item name="CTVI_ForgedBrass">
+			<property name="Extends" value="resourceForgedIron"/>
+			<property name="CustomIcon" value="resourceForgedIron"/>
+			<property name="CustomIconTint" value="B5A642"/> 
+			<property name="TintColor" value="B5A642"/>
+			<property name="Tags" value="gems"/>
+			<property name="EconomicValue" value="2500"/>
+			<property name="CraftingIngredientTime" value="15"/>
+			<property name="DescriptionKey" value="CTVI_ForgedBrass"/>
+		</item>
+		
+		<item name="CTVI_ForgedSilver">
+			<property name="Extends" value="resourceForgedIron"/>
+			<property name="CustomIcon" value="resourceForgedIron"/>
+			<property name="CustomIconTint" value="C0C0C0"/> 
+			<property name="TintColor" value="C0C0C0"/>
+			<property name="Tags" value="gems"/>
+			<property name="EconomicValue" value="15000"/>
+			<property name="CraftingIngredientTime" value="15"/>
+			<property name="DescriptionKey" value="CTVI_ForgedSilverDesc"/>
+		</item>
+		
+		<item name="CTVI_ForgedGold">
+			<property name="Extends" value="resourceForgedIron"/>
+			<property name="CustomIcon" value="resourceForgedIron"/>
+			<property name="CustomIconTint" value="FFD700"/> 
+			<property name="TintColor" value="FFD700"/>
+			<property name="Tags" value="gems"/>
+			<property name="EconomicValue" value="40000"/>
+			<property name="CraftingIngredientTime" value="15"/>
+			<property name="DescriptionKey" value="CTVI_ForgedGoldDesc"/>
+		</item>
+		
+		<item name="CTVI_ForgedPlatinum">
+			<property name="Extends" value="resourceForgedSteel"/>
+			<property name="CustomIcon" value="resourceForgedIron"/>
+			<property name="CustomIconTint" value="E5E4E2"/> 
+			<property name="TintColor" value="E5E4E2"/>
+			<property name="Tags" value="gems"/>
+			<property name="EconomicValue" value="50000"/>
+			<property name="CraftingIngredientTime" value="15"/>
+			<property name="DescriptionKey" value="CTVI_ForgedPlatinumDesc"/>
+		</item>
+		
+		<item name="CTVI_ForgedEmerald">
+			<property name="Extends" value="resourceForgedIron"/>
+			<property name="CustomIcon" value="resourceForgedIron"/>
+			<property name="CustomIconTint" value="50C878"/> 
+			<property name="TintColor" value="50C878"/>
+			<property name="Tags" value="gems"/>
+			<property name="EconomicValue" value="6500"/>
+			<property name="CraftingIngredientTime" value="15"/>
+			<property name="DescriptionKey" value="CTVI_ForgedEmeraldDesc"/>
+		</item>
+		
+		<item name="CTVI_ForgedRuby">
+			<property name="Extends" value="resourceForgedIron"/>
+			<property name="CustomIcon" value="resourceForgedIron"/>
+			<property name="CustomIconTint" value="E0115F"/> 
+			<property name="TintColor" value="E0115F"/>
+			<property name="Tags" value="gems"/>
+			<property name="EconomicValue" value="7000"/>
+			<property name="CraftingIngredientTime" value="15"/>
+			<property name="DescriptionKey" value="CTVI_ForgedRubyDesc"/>
+		</item>
+
+		<item name="CTVI_ForgedDiamond">
+			<property name="Extends" value="resourceForgedIron"/>
+			<property name="CustomIcon" value="resourceForgedIron"/>
+			<property name="CustomIconTint" value="B9F2FF"/> 
+			<property name="TintColor" value="B9F2FF"/>
+	        <property name="Tags" value="gems"/>
+	        <property name="EconomicValue" value="9000"/>
+	        <property name="CraftingIngredientTime" value="60"/>
+			<property name="DescriptionKey" value="CTVI_ForgedDiamondDesc"/>
+		</item>
+
+	 </append>
+ </configs>

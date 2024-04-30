@@ -1,0 +1,103 @@
+<config>
+	<!-- Ores Loot -->
+	<insertBefore xpath="/lootcontainers/lootgroup[@name='rareOres']">
+		<item name="resourceRawPlatinum" count="1,4" loot_prob_template="medLow"/>
+		<item name="resourceRawEmerald" count="1,3" loot_prob_template="Low"/>
+		<item name="resourceRawRuby" count="1,3" loot_prob_template="Low"/>
+	</insertBefore>
+
+<!-- *** A20_Cash_and_Prizes_Groups -->
+	
+	<insertBefore xpath="/lootcontainers/lootgroup[@name='groupValuablesMed']">
+		<item name="resourceRawPlatinum" count="3,5" loot_prob_template="medLow"/>
+		<item name="resourceRawEmerald" count="2,5" loot_prob_template="Low"/>
+		<item name="resourceRawRuby" count="2,4" loot_prob_template="Low"/>
+	</insertBefore>
+	
+	<insertBefore xpath="/lootcontainers/lootgroup[@name='groupValuablesLarge']">
+		<item name="resourceRawPlatinum" count="3,5" loot_prob_template="medLow"/>
+		<item name="resourceRawEmerald" count="2,5" loot_prob_template="Low"/>
+		<item name="resourceRawRuby" count="2,4" loot_prob_template="Low"/>
+	</insertBefore>
+	
+	<!-- Treasure Cache -->
+
+	<insertBefore xpath="/lootcontainers/lootgroup[@name='groupValuablesExtraLarge']">
+		<item name="resourceRawPlatinum" count="3,5" loot_prob_template="medLow"/>
+		<item name="resourceRawEmerald" count="2,5" loot_prob_template="Low"/>
+		<item name="resourceRawRuby" count="2,4" loot_prob_template="Low"/>
+	</insertBefore>
+	
+	<!-- *** Buried_Supplies_T1 -->
+	
+	
+	<insertBefore xpath="/lootcontainers/lootgroup[@name='groupBuriedSuppliesT1_01']">
+		<item name="resourceRawPlatinum" count="3,5" loot_prob_template="medLow"/>
+		<item name="resourceRawEmerald" count="2,5" loot_prob_template="Low"/>
+		<item name="resourceRawRuby" count="2,4" loot_prob_template="Low"/>
+	</insertBefore>
+	
+	<insertBefore xpath="/lootcontainers/lootgroup[@name='groupBuriedSuppliesT1_02']">
+		<item name="resourceRawPlatinum" count="3,5" loot_prob_template="medLow"/>
+		<item name="resourceRawEmerald" count="2,5" loot_prob_template="Low"/>
+		<item name="resourceRawRuby" count="2,4" loot_prob_template="Low"/>
+	</insertBefore>
+	
+	<insertBefore xpath="/lootcontainers/lootgroup[@name='groupBuriedSuppliesT1_03']">
+		<item name="resourceRawPlatinum" count="3,5" loot_prob_template="medLow"/>
+		<item name="resourceRawEmerald" count="2,5" loot_prob_template="Low"/>
+		<item name="resourceRawRuby" count="2,4" loot_prob_template="Low"/>
+	</insertBefore>
+	
+		<!-- *** Hardened_Chests -->
+	
+	<insertBefore xpath="/lootcontainers/lootgroup[@name='groupHardenedChestT4_09']">
+		<item name="resourceRawPlatinum" count="3,5" loot_prob_template="medLow"/>
+		<item name="resourceRawEmerald" count="2,5" loot_prob_template="Low"/>
+		<item name="resourceRawRuby" count="2,4" loot_prob_template="Low"/>
+	</insertBefore>
+	
+	<insertBefore xpath="/lootcontainers/lootgroup[@name='groupHardenedChestT5_07']">
+		<item name="resourceRawPlatinum" count="3,5" loot_prob_template="medLow"/>
+		<item name="resourceRawEmerald" count="2,5" loot_prob_template="Low"/>
+		<item name="resourceRawRuby" count="2,4" loot_prob_template="Low"/>
+	</insertBefore>
+	
+		<!-- *** Purse_Loot -->
+	
+	<insertBefore xpath="/lootcontainers/lootgroup[@name='groupHardenedChestT5_07']">
+		<item name="resourceRawPlatinum" count="3,5" loot_prob_template="medLow"/>
+		<item name="resourceRawEmerald" count="2,5" loot_prob_template="Low"/>
+		<item name="resourceRawRuby" count="2,4" loot_prob_template="Low"/>
+		<item name="resourceSilverNugget" count="6,14" loot_prob_template="med"/>
+		<item name="resourceGoldNugget" count="3,6" loot_prob_template="medLow"/>
+		<item name="resourceRawDiamond" count="2,3" loot_prob_template="low"/>
+	</insertBefore>
+
+		<!-- *** zeds -->
+	
+	<insertBefore xpath="/lootcontainers/lootgroup[@name='groupZpackStrong03']">
+		<item name="resourceRawPlatinum" count="3,5" loot_prob_template="medLow"/>
+		<item name="resourceRawEmerald" count="2,5" loot_prob_template="Low"/>
+		<item name="resourceRawRuby" count="2,4" loot_prob_template="Low"/>
+		<item name="resourceSilverNugget" count="6,14" loot_prob_template="med"/>
+		<item name="resourceGoldNugget" count="3,6" loot_prob_template="medLow"/>
+		<item name="resourceRawDiamond" count="2,3" loot_prob_template="low"/>
+	</insertBefore>
+	
+	<!-- *** Buried_Treasure_Map -->
+	
+	<insertBefore xpath="/lootcontainers/lootgroup[@name='groupBuriedTreasure']">
+		<item name="resourceRawPlatinum" count="3,5" loot_prob_template="medLow"/>
+		<item name="resourceRawEmerald" count="2,5" loot_prob_template="Low"/>
+		<item name="resourceRawRuby" count="2,4" loot_prob_template="Low"/>
+		<item name="resourceSilverNugget" count="6,14" loot_prob_template="med"/>
+		<item name="resourceGoldNugget" count="3,6" loot_prob_template="medLow"/>
+		<item name="resourceRawDiamond" count="2,3" loot_prob_template="low"/>
+	</insertBefore>
+	
+	
+</config>
+
+
+

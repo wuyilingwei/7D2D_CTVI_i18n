@@ -1,0 +1,53 @@
+<!-- CTVI Base defences -->
+
+<configs>
+
+	<!-- Raw material found while mining -->
+	
+	<append xpath="/blocks/block[@name='terrOreIron']">
+		<drop event="Harvest" name="CTVI_resourceRawPlatinum" prob=".007" count="1" tag="artOfMiningLuckyStrikeHarvest"/>
+		<drop event="Harvest" name="CTVI_resourceRawEmerald" prob=".006" count="1" tag="artOfMiningLuckyStrikeHarvest"/>
+		<drop event="Harvest" name="CTVI_resourceRawRuby" prob=".005" count="1" tag="artOfMiningLuckyStrikeHarvest"/>
+	</append>
+	
+	<append xpath="/blocks/block[@name='terrOreLead']">
+		<drop event="Harvest" name="CTVI_resourceRawPlatinum" prob=".007" count="1" tag="artOfMiningLuckyStrikeHarvest"/>
+		<drop event="Harvest" name="CTVI_resourceRawEmerald" prob=".006" count="1" tag="artOfMiningLuckyStrikeHarvest"/>
+		<drop event="Harvest" name="CTVI_resourceRawRuby" prob=".005" count="1" tag="artOfMiningLuckyStrikeHarvest"/>
+	</append>
+
+	<append xpath="/blocks/block[@name='terrOreCoal']">
+		<drop event="Harvest" name="CTVI_resourceRawPlatinum" prob=".007" count="1" tag="artOfMiningLuckyStrikeHarvest"/>
+		<drop event="Harvest" name="CTVI_resourceRawEmerald" prob=".006" count="1" tag="artOfMiningLuckyStrikeHarvest"/>
+		<drop event="Harvest" name="CTVI_resourceRawRuby" prob=".005" count="1" tag="artOfMiningLuckyStrikeHarvest"/>
+	</append>
+	
+	<append xpath="/blocks/block[@name='terrOrePotassiumNitrate']">
+		<drop event="Harvest" name="CTVI_resourceRawPlatinum" prob=".007" count="1" tag="artOfMiningLuckyStrikeHarvest"/>
+		<drop event="Harvest" name="CTVI_resourceRawEmerald" prob=".006" count="1" tag="artOfMiningLuckyStrikeHarvest"/>
+		<drop event="Harvest" name="CTVI_resourceRawRuby" prob=".005" count="1" tag="artOfMiningLuckyStrikeHarvest"/>
+	</append>
+	
+	<append xpath="/blocks/block[@name='terrOreOilDeposit']">
+		<drop event="Harvest" name="CTVI_resourceRawPlatinum" prob=".007" count="1" tag="artOfMiningLuckyStrikeHarvest"/>
+		<drop event="Harvest" name="CTVI_resourceRawEmerald" prob=".006" count="1" tag="artOfMiningLuckyStrikeHarvest"/>
+		<drop event="Harvest" name="CTVI_resourceRawRuby" prob=".005" count="1" tag="artOfMiningLuckyStrikeHarvest"/>
+	</append>
+
+	<!-- loot from caskets -->
+
+	<append xpath="/blocks/block[@name='cntCasketModernRandomHelper']">
+		<drop event="Harvest" name="CTVI_resourceRawPlatinum" prob=".06" count="1" tag="WasteTreasuresCoffinHarvest"/>
+		<drop event="Harvest" name="CTVI_resourceRawEmerald" prob=".05" count="1" tag="WasteTreasuresCoffinHarvest"/>
+		<drop event="Harvest" name="CTVI_resourceRawRuby" prob=".05" count="1" tag="WasteTreasuresCoffinHarvest"/>
+	</append>
+	
+	<append xpath="/blocks/block[@name='cntCasketModernOffsetRandomHelper']">
+		<drop event="Harvest" name="CTVI_resourceRawPlatinum" prob=".06" count="1" tag="WasteTreasuresCoffinHarvest"/>
+		<drop event="Harvest" name="CTVI_resourceRawEmerald" prob=".05" count="1" tag="WasteTreasuresCoffinHarvest"/>
+		<drop event="Harvest" name="CTVI_resourceRawRuby" prob=".05" count="1" tag="WasteTreasuresCoffinHarvest"/>
+	</append>
+
+
+	
+</configs>
